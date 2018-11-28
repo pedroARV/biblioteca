@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">retrofitTry2</string>
+    <string name="Suser">User</string>
+    <string name="Spass">Password</string>
+    <string name="Sbtn">Login</string>
+    <string name="SWelcome">Welcome</string>
+</resources>

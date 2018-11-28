@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">video39</string>
+    <string name="btn_short">SoundPool</string>
+    <string name="btn_long">MediaPlayer</string>
+</resources>

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">video15</string>
+    <string name="txt_valor1_string">Ingresa el primer valor</string>
+    <string name="txt_valor2_string">Ingresa el segundo valor</string>
+    <string name="rb1_string">Sumar</string>
+    <string name="rb2_string">Restar</string>
+    <string name="rb3_string">Multiplicar</string>
+    <string name="rb4_string">Dividir</string>
+    <string name="boton_string">calcular</string>
+    <string name="txt_resultado_string">Resultado</string>
+</resources>

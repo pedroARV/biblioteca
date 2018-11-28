@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">43 Multilenguaje</string>
+    <string name="btn">Iniciar Sesion</string>
+    <string name="et_usuario">Usuario</string>
+    <string name="et_password">Contraseña</string>
+    <string name="txtview">Todos los derechos reservados </string>
+</resources>

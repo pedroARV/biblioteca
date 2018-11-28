@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">video23</string>
+    <string name="tv1_string">Primer Activity </string>
+    <string name="tv2_string">Segundo Activity</string>
+    <string name="btn_next_string">Siguiente</string>
+    <string name="btn_back_string">Atras</string>
+</resources>

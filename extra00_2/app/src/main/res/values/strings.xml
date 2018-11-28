@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">extra00_2</string>
+    <string name="btn">Escanear codigo</string>
+    <string name="codigo">Codigo</string>
+</resources>

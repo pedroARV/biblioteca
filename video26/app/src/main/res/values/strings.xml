@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">video26</string>
+    <string name="email_string">Ingrese su E-mail</string>
+    <string name="btn_guardar_string">Guardar</string>
+</resources>

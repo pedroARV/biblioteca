@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">video18</string>
+    <string name="txt_valor1_string">Ingresa el primer valor</string>
+    <string name="txt_valor2_string">Ingresa el segundo valor</string>
+    <string name="boton_string">calcular</string>
+    <string name="txt_resultado_string">Resultado</string>
+</resources>

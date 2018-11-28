@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">video24</string>
+    <string name="et1_spring">Nombre</string>
+    <string name="btn_next_string">Enviar</string>
+    <string name="btn_back_string">Regresar</string>
+</resources>

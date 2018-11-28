@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">calculadora para leslie la mamona</string>
+    <string name="txt_view_string">Estatus del estudiante</string>
+    <string name="txt_matematicas_string">Matematicas</string>
+    <string name="txt_fisica_string">Fisica</string>
+    <string name="txt_quimica_string">Quimica</string>
+    <string name="btn_evaluar_string">Evaluar</string>
+</resources>

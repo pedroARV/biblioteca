@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">video35</string>
+    <string name="u1">1</string>
+    <string name="d2">2</string>
+    <string name="t3">3</string>
+    <string name="c4">4</string>
+    <string name="c5">5</string>
+
+    <string name="s6">6</string>
+    <string name="s7">7</string>
+    <string name="o8">8</string>
+    <string name="n9">9</string>
+    <string name="c0">0</string>
+
+    <string name="restar">-</string>
+    <string name="sumar">+</string>
+    <string name="multiplicar">*</string>
+    <string name="dividir">/</string>
+    <string name="resultado">=</string>
+
+    <string name="restaurarValores">Restaurar valores</string>
+    <string name="txt0">0</string>
+</resources>

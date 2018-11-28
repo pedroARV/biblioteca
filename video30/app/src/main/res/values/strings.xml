@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">video30</string>
+    <string name="txtCodigo">Codigo del producto</string>
+    <string name="txtDescripcion">Descripcion del producto</string>
+    <string name="txtPrecio">Precio del producto</string>
+    <string name="btnRegistrar">Registrar producto</string>
+    <string name="btnBuscar">Buscar producto</string>
+    <string name="btnEliminar">Eliminar producto</string>
+    <string name="btnModificar">Modificar producto</string>
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">video27</string>
+    <string name="txt_nombre">Nombre del contacto</string>
+    <string name="txt_MultiLIine">Datos del contacto</string>
+    <string name="btn_guardar">guardar</string>
+    <string name="btn_buscar">buscar</string>
+</resources>
